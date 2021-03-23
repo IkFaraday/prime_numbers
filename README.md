@@ -1,2 +1,2 @@
-# prime_numbers
+# [My_python_files]
 Get n prime numbers
